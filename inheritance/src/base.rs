@@ -52,6 +52,8 @@ where
     A::name(text)
 }
 
+// Good for libraires to support inheritans without changing
+// the Animal (root) trait
 pub fn run() {
     get_name::<Cat>("Barsik");
 
