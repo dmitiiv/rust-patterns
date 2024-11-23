@@ -1,6 +1,3 @@
 [workspace]
 
-members = [
-    "visitor",
-]
-
+members = ["inheritance", "visitor"]

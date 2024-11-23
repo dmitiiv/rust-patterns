@@ -3,5 +3,9 @@
 version = 3
 
 [[package]]
+name = "inheritance"
+version = "0.1.0"
+
+[[package]]
 name = "visitor"
 version = "0.1.0"
